@@ -21,6 +21,8 @@ namespace pruebaConexionPostgreSQLV.Controllers
 
         public IActionResult Index(ConexionPostgreSQL conexionPostgreSQL)
         {
+            // Profesor
+
             System.Console.WriteLine("[INFORMACIÓN-HomeController-Index] Entra en Index");
             
             //CONSTANTES
